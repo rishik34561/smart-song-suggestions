@@ -1,0 +1,3 @@
+This project utilizes the Spotify Web API to obtain a Spotify user's recently played tracks and analyzes the characteristics of these songs such as tempo, key, etc. It then uses the Nearest Neighbors unsupervised learning algorithm to find similar songs of various genres from a dataset containing 2000+ songs created using Numpy and Pandas, and it adds these songs to a new playlist for the user to listen to. 
+
+This machine learning project was created using Python and is run using Jupyter Notebook. 
